@@ -1,9 +1,10 @@
 ### Hi there 👋, I'm Beulah Mathenge
 
 - 🔭 I’m currently working on **an e-commerce site and system for an organic farm**
-- 🌱 I’m currently learning **firebase storage**
+- 💬 I'm an expert on **Ruby, Javascript, ReactsJS, Ruby on Rails, SQL, HTML5 and CSS.**
+- 🌱 I’m currently learning **firebase storage and AngularJS**
 - 👯 I’m looking to collaborate on **Ruby on Rails Backend Projects**
-- 🤔 I’m looking for help with **Role Based Authentication in Rails and React App**
+- 🤔 I’m looking for help with **Role Based Authentication in a Rails and React App**
 - 💬 Ask me about **TailwindCSS and APIs**
 - 📫 How to reach me: **beulahdaizy@gmail.com**
 - 😄 Pronouns: **She/ Her**
