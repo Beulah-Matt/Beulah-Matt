@@ -8,10 +8,14 @@
 - 📫 How to reach me: **beulahdaizy@gmail.com**
 - 😄 Pronouns: **She/ Her**
 - ⚡ Fun fact: **Find me behind the violin 🎻 ,drums 🪘 or making delicious sauces 🍅**
+  <br/>
 
-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Beulah-Matt" alt="Beulah" /></a> </p>
+### Some of My Badges
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Beulah-Matt" alt="Beulah" /></a> </p>
 
-<!-- SOCIALS. TODO: SWAP OUT YOUR URL AND NAME. -->
+<h3 align="center">Connect with me!</h3>
+
+<br/>
 <p align="left" style="float: left;"> 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/beulah-mathenge/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Beulah's LinkedIn" /></a> 
@@ -22,4 +26,5 @@
   
   <!-- Other badges -->
 </p>
+<br/>
 
