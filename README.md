@@ -29,3 +29,15 @@
 </p>
 <br/>
 
+**These are the photos of the organic farm project so far**
+
+# Hero
+![landingPageHero](https://github.com/Beulah-Matt/lotus-api/assets/109944021/a6badaaa-a330-4819-b989-2d481aa1327c)
+
+# About
+![landingPageAbout](https://github.com/Beulah-Matt/lotus-api/assets/109944021/696d463b-5847-4e42-a914-35469eee902c)
+
+# Mobile View
+![mobileView](https://github.com/Beulah-Matt/lotus-api/assets/109944021/67655a9d-a2aa-4416-8df3-f5af1bd7a9cf)
+
+
