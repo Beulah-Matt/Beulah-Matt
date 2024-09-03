@@ -1,14 +1,14 @@
 ### Hi there 👋, I'm Beulah Mathenge
 
 - 🔭 I’m currently working on **an e-commerce site and system for an organic farm**
-- 💬 I'm an expert on **Ruby, Javascript, ReactsJS, Ruby on Rails, SQL, HTML5 and CSS.**
-- 🌱 I’m currently learning **Firebase storage, Angular and German**
+- 💬 I'm an expert on **Ruby, Javascript, ReactsJS, Angular, GCP, NodeJs Ruby on Rails, SQL, HTML5 and CSS.**
+- 🌱 I’m currently learning **Azure Cloud Development, Product Management and German**
 - 👯 I’m looking to collaborate on **Ruby on Rails Backend Projects**
-- 🤔 I’m looking for help with **Role Based Authentication in a Rails and React App**
+- 🤔 I’m curious about **Prompt Programming**
 - 💬 Ask me about **TailwindCSS and APIs**
 - 📫 How to reach me: **beulahdaizy@gmail.com**
 - 😄 Pronouns: **She/ Her**
-- ⚡ Fun fact: **Find me behind the violin 🎻 ,drums 🪘 or making delicious sauces 🍅**
+- ⚡ Fun fact: **Find me behind the violin 🎻 hosting a book club 📚 or summiting mountains ⛰️**
   <br/>
 
 ### Some of My Badges
@@ -28,16 +28,3 @@
   <!-- Other badges -->
 </p>
 <br/>
-
-**These are the photos of the organic farm project so far**
-
-# Hero
-![landingPageHero](https://github.com/Beulah-Matt/lotus-api/assets/109944021/a6badaaa-a330-4819-b989-2d481aa1327c)
-
-# About
-![landingPageAbout](https://github.com/Beulah-Matt/lotus-api/assets/109944021/696d463b-5847-4e42-a914-35469eee902c)
-
-# Mobile View
-![mobileView](https://github.com/Beulah-Matt/lotus-api/assets/109944021/67655a9d-a2aa-4416-8df3-f5af1bd7a9cf)
-
-
