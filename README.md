@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm Beulah Mathenge
 
-- 🔭 I’m currently working on **an e-commerce site and system for an organic farm**
-- 💬 I'm an expert on **Ruby, Javascript, ReactsJS, Angular, GCP, NodeJs Ruby on Rails, SQL, HTML5 and CSS.**
+- 🔭 I’m currently working on **Odoo module development for a freight project**
+- 💬 I'm an expert on **Typescript, ReactsJS, Angular, GCP, NodeJs Ruby on Rails, SQL, HTML5 and CSS.**
 - 🌱 I’m currently learning **Azure Cloud Development, Product Management and German**
 - 👯 I’m looking to collaborate on **Ruby on Rails Backend Projects**
-- 🤔 I’m curious about **Prompt Programming**
-- 💬 Ask me about **TailwindCSS and APIs**
+- 🤔 I’m curious about **DevOps and CI/CD**
+- 💬 Ask me about **Cloud Computing**
 - 📫 How to reach me: **beulahdaizy@gmail.com**
 - 😄 Pronouns: **She/ Her**
 - ⚡ Fun fact: **Find me behind the violin 🎻 hosting a book club 📚 or summiting mountains ⛰️**
