@@ -59,20 +59,31 @@
 
 ---
 
-### ⚡ Beyond Code
-🎻 Violinist | 📚 Book club host | ⛰️ Mountain summiter  
-
 
 ## 📫 Let’s Connect
-- 📧 Email: **beulahdaizy@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/beulah-mathenge](https://www.linkedin.com/in/beulah-mathenge)
-- 🧑‍💻 GitHub: [github.com/Beulah-Matt](https://github.com/Beulah-Matt)
+Feel free to connect with me on LinkedIn, follow my writings on Medium, or send me an email!
+
+<p align="left"> 
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/beulah-mathenge/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Beulah's LinkedIn" />
+  </a>
+  <span>&nbsp;</span>
+
+  <!-- Medium -->
+  <a href="https://medium.com/@beulahdaizy" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Beulah's Medium" />
+  </a>
+  <span>&nbsp;</span>
+
+  <!-- Email -->
+  <a href="mailto:beulahdaizy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Beulah" />
+  </a>
+</p>
+
 
 ---
-
-⚡ **Fun fact:** You’ll find me behind a violin 🎻, hosting a book club 📚, or summiting mountains ⛰️
-
-<br/>
 ### 🏅 Certifications
 
 <p align="left">
@@ -85,26 +96,16 @@
   </a>
 </p>
 
-<br/>
+---
 
 ### Some of My Badges
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Beulah-Matt" alt="Beulah" />
-</p>
+ <p align="left"> 
+   <a href="https://github.com/ryo-ma/github-profile-trophy">
+     <img src="https://github-profile-trophy.vercel.app/?username=Beulah-Matt" alt="Beulah" />
+   </a> 
+ </p>
 
-<h3 align="left">Connect with me!</h3>
+---
 
-<br/>
-<p align="left" style="float: left;"> 
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/beulah-mathenge/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Beulah's LinkedIn" /></a> 
-  <span>&nbsp;</span>
-  
-  <!-- Medium -->
-  <a href="https://medium.com/@beulahdaizy" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Beulah's Medium" /></a> 
-  <span>&nbsp;</span>
-  
-  <!-- Other badges -->
-</p>
-<br/>
-
+### ⚡ Beyond Code
+🎻 Violinist | 📚 Book club host | ⛰️ Hiking Enthusiast  | 📝 Writer
