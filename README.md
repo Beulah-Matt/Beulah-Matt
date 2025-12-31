@@ -1,15 +1,91 @@
-### Hi there 👋, I'm Beulah Mathenge
+## Hi, I'm Beulah Mathenge 👋🏽
+😄 **Pronouns:** She / Her
 
-- 🔭 I’m currently working on **Odoo module development for a freight project**
-- 💬 I'm an expert on **Typescript, ReactsJS, Angular, GCP, NodeJs Ruby on Rails, SQL, HTML5 and CSS.**
-- 🌱 I’m currently learning **Azure Cloud Development, Product Management and German**
-- 👯 I’m looking to collaborate on **Ruby on Rails Backend Projects**
-- 🤔 I’m curious about **DevOps and CI/CD**
-- 💬 Ask me about **Cloud Computing**
-- 📫 How to reach me: **beulahdaizy@gmail.com**
-- 😄 Pronouns: **She/ Her**
-- ⚡ Fun fact: **Find me behind the violin 🎻 hosting a book club 📚 or summiting mountains ⛰️**
-  <br/>
+🔭 **Product-oriented Full-Stack Engineer** building scalable, cloud-native web applications  
+💡 Strong focus on **Cloud Computing**, **Full-Stack Development**, and **Product Engineering**  
+🌍 Based in Romania | Working with distributed teams  
+
+---
+
+### 👩🏽‍💻 What I Do
+- Build **end-to-end web platforms** from discovery to production
+- Design **cloud-native architectures** with CI/CD and automation in mind
+- Translate product requirements into **clean, maintainable, user-centric systems**
+- Balance **engineering quality** with **business and product outcomes**
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**
+- Next.js (App Router) · React · Angular · TypeScript
+- Tailwind CSS · shadcn/ui · lucide-react
+- State: Zustand · Context API · Akita
+- Semantic HTML · Accessible UI patterns
+
+**Backend**
+- Node.js · REST & serverless APIs
+- Prisma ORM · PostgreSQL
+- Authentication: Clerk, Auth.js
+- Background jobs & async workflows (queues, cron-style tasks)
+
+**Cloud & DevOps**
+- Google Cloud Platform (Compute Engine, Cloud Functions, Cloud SQL)
+- Docker · Kubernetes fundamentals
+- CI/CD with GitHub Actions
+- GitOps-style deployments
+- Serverless & VM-based workloads
+
+**Data & Reliability**
+- PostgreSQL · Firebase
+- Redis (managed, for caching & queues)
+- Zod (schema validation)
+- Logging, basic monitoring, alerting
+
+---
+
+### 🌱 Currently Exploring
+- Advanced **DevOps & CI/CD patterns**
+- Kubernetes-based workloads in production
+- Distributed system design & observability
+- Product strategy & technical decision-making
+
+---
+
+### 🤝 Open to Collaborations
+- **Cloud & DevOps projects** (GCP, Kubernetes, CI/CD)
+- **Backend or platform-heavy systems**
+- Teams that care about **engineering + product thinking**
+
+---
+
+### ⚡ Beyond Code
+🎻 Violinist | 📚 Book club host | ⛰️ Mountain summiter  
+
+
+## 📫 Let’s Connect
+- 📧 Email: **beulahdaizy@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/beulah-mathenge](https://www.linkedin.com/in/beulah-mathenge)
+- 🧑‍💻 GitHub: [github.com/Beulah-Matt](https://github.com/Beulah-Matt)
+
+---
+
+⚡ **Fun fact:** You’ll find me behind a violin 🎻, hosting a book club 📚, or summiting mountains ⛰️
+
+<br/>
+### 🏅 Certifications
+
+<p align="left">
+  <a href="https://www.credly.com/badges/ebad3e3c-8cb3-4d7f-bf0f-62e86f170ca1/public_url" target="_blank">
+    <img src="https://your-gcp-badge-image-url.png" alt="GCP Associate Cloud Engineer" width="120"/>
+  </a>
+  <span>&nbsp;&nbsp;</span>
+  <a href="https://www.credly.com/badges/b93811c6-612c-4ec7-a23a-d567eb020322/public_url" target="_blank">
+    <img src="https://your-kcna-badge-image-url.png" alt="KCNA" width="120"/>
+  </a>
+</p>
+
+<br/>
 
 ### Some of My Badges
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Beulah-Matt" alt="Beulah" /></a> </p>
