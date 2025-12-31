@@ -77,11 +77,11 @@
 
 <p align="left">
   <a href="https://www.credly.com/badges/ebad3e3c-8cb3-4d7f-bf0f-62e86f170ca1/public_url" target="_blank">
-    <img src="[https://your-gcp-badge-image-url.png](https://images.credly.com/size/680x680/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png)" alt="GCP Associate Cloud Engineer" width="120"/>
+    <img src="https://images.credly.com/size/680x680/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" alt="GCP Associate Cloud Engineer" width="120"/>
   </a>
   <span>&nbsp;&nbsp;</span>
   <a href="https://www.credly.com/badges/b93811c6-612c-4ec7-a23a-d567eb020322/public_url" target="_blank">
-    <img src="[https://your-kcna-badge-image-url.png](https://images.credly.com/size/160x160/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png)" alt="KCNA" width="120"/>
+    <img src="https://images.credly.com/size/160x160/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="KCNA" width="120"/>
   </a>
 </p>
 
