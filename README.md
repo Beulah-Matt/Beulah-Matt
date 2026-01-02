@@ -103,7 +103,7 @@ Feel free to connect with me on LinkedIn, follow my writings on Medium, or send 
 
 
 ---
-<!--
+
 ### Some of My Badges
  <p align="left"> 
    <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -112,7 +112,6 @@ Feel free to connect with me on LinkedIn, follow my writings on Medium, or send 
  </p>
 
 ---
--->
 
 ### ⚡ Beyond Code
 🎻 Violinist | 📚 Book club host | ⛰️ Hiking Enthusiast  | 📝 Writer
