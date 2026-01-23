@@ -105,11 +105,8 @@ Feel free to connect with me on LinkedIn, follow my writings on Medium, or send 
 ---
 
 ### Some of My Badges
- <p align="left"> 
-   <a href="https://github.com/ryo-ma/github-profile-trophy">
-     <img src="https://github-profile-trophy.vercel.app/?username=Beulah-Matt" alt="Beulah" >
-   </a> 
- </p>
+ [![trophy](https://github-profile-trophy.vercel.app/?username=Beulah-Matt&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
