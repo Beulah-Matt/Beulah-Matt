@@ -103,11 +103,5 @@ Feel free to connect with me on LinkedIn, follow my writings on Medium, or send 
 
 
 ---
-
-### Some of My Badges
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Beulah-Matt&show_icons=true)
-
----
-
 ### ⚡ Beyond Code
 🎻 Violinist | 📚 Book club host | ⛰️ Hiking Enthusiast  | 📝 Writer
