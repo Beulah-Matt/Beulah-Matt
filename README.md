@@ -98,6 +98,10 @@ Feel free to connect with me on LinkedIn, follow my writings on Medium, or send 
   <a href="https://www.credly.com/badges/b93811c6-612c-4ec7-a23a-d567eb020322/public_url" target="_blank">
     <img src="https://images.credly.com/size/160x160/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="KCNA" width="120"/>
   </a>
+
+  <a href="https://www.credly.com/badges/396689e7-5623-4fa0-9a85-6b9d3e8a574d/public_url" target="_blank">
+    <img src="https://images.credly.com/size/220x220/images/6abd5c40-4663-4c4c-ab4e-ea4a86269db6/image.png" alt="IBM Product Foundations" width="120" />
+  </a
 </p>
 
 
