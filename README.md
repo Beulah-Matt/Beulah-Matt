@@ -90,6 +90,11 @@ Feel free to connect with me on LinkedIn, follow my writings on Medium, or send 
 <br> 
 
 <p align="left">
+  <a href="https://www.credly.com/badges/683ef74a-93a9-4c1d-8a73-b94df7522674/public_url" target="_blank">
+    <img src="https://images.credly.com/size/220x220/images/b7fdf289-033a-41c4-b009-8326592da4e5/Coursera_20IBM_20Product_20Manager_20Professional_20Certificate.png" alt="IBM Product Manager Professional Certificate" width="120"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+  
   <a href="https://www.credly.com/badges/ebad3e3c-8cb3-4d7f-bf0f-62e86f170ca1/public_url" target="_blank">
     <img src="https://images.credly.com/size/680x680/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" alt="GCP Associate Cloud Engineer" width="120"/>
   </a>
@@ -98,10 +103,12 @@ Feel free to connect with me on LinkedIn, follow my writings on Medium, or send 
   <a href="https://www.credly.com/badges/b93811c6-612c-4ec7-a23a-d567eb020322/public_url" target="_blank">
     <img src="https://images.credly.com/size/160x160/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="KCNA" width="120"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp; 
 
   <a href="https://www.credly.com/badges/396689e7-5623-4fa0-9a85-6b9d3e8a574d/public_url" target="_blank">
     <img src="https://images.credly.com/size/220x220/images/6abd5c40-4663-4c4c-ab4e-ea4a86269db6/image.png" alt="IBM Product Foundations" width="120" />
   </a
+  &nbsp;&nbsp;&nbsp;&nbsp;   
 </p>
 
 
